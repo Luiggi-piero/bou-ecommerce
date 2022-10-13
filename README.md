@@ -1,6 +1,9 @@
 # Bou ecommerce
 🌐 https://bou-web.netlify.app
 
+<p>📫 <strong>luiggiyantas@gmail.com</strong> </p>
+<p>📫 <strong>luiggi.yantas@unmsm.edu.pe</strong> </p>
+
 - HTML
 - CSS
 - JS
