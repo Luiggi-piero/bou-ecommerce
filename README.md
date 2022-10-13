@@ -1,4 +1,6 @@
 # Bou ecommerce
+🌐 https://bou-web.netlify.app
+
 - HTML
 - CSS
 - JS
